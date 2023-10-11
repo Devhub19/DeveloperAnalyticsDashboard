@@ -12,3 +12,4 @@
 3. Run `npm run test` to run the test cases.
 
 Note: You will need to start the backend first followed by the frontend inorder for the application to run properly.
+Also, the database used for storing the data is MongoDB.
