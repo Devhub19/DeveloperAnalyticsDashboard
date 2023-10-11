@@ -1,0 +1,35 @@
+.form {
+  text-align: center;
+}
+
+.form-control {
+  margin: 1rem 0;
+}
+
+.form-control label,
+.form-control input {
+  margin-bottom: 0.25rem;
+  font-size: 20px;
+}
+
+.form-control input {
+  border: 1px solid #a1a1a1;
+  font: inherit;
+  border-radius: 2px;
+}
+
+.form-control input:focus {
+  outline-color: #00695c;
+}
+
+.form button {
+  margin-top: 1rem;
+  width: 20%;
+  height: 30px;
+  background-color: #e8e51b;
+  font-size: 20px;
+}
+
+.form-errors {
+  color: rgb(234, 88, 88);
+}

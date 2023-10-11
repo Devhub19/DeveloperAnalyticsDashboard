@@ -1,0 +1,22 @@
+.table-head-row {
+  margin: 0 50;
+}
+
+.table-data-row {
+  background-color: aqua;
+}
+
+.table-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.centered-table {
+  width: 80%;
+  border: 1px solid #ccc;
+}
+
+.filter-options {
+  padding: 50 0;
+}
